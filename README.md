@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Github Explorer is an SPA for searching repositories under github. The finder will return the owner of the project, the description of it and the current issues opened in that exact repo.
+
 ## Available Scripts
 
 In the project directory, you can run:
